@@ -1,6 +1,6 @@
 # Indian Startup Ecosystem Analysis (2018-2021)
 
-![Indian Ecosystem Startup](startup_image.jpg) (Replace `startup_image.jpg` with an image representing the startup ecosystem or your preferred image)
+![Indian Ecosystem Startup](startup.jpg) 
 
 ## Overview
 
