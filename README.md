@@ -18,7 +18,7 @@ This repository contains the exploratory data analysis (EDA) of the Indian Ecosy
    - 5.3 [Funding Analysis](#funding-analysis)
    - 5.4 [Startup Categories](#startup-categories)
    - 5.5 [Geographical Distribution](#geographical-distribution)
-   - 5.6 [Investor Insights](#investor-insights)
+   
 6. [Conclusion](#conclusion)
 7. [Contributing](#contributing)
 8. [License](#license)
@@ -29,7 +29,7 @@ The Indian startup ecosystem has witnessed tremendous growth and innovation in r
 
 ## Data Source
 
-The data used for this analysis was sourced from [Indian Startup Database](https://www.example.com/indian-startup-database). The dataset contains information on various startups, funding rounds, investors, and other relevant details.
+The data used for this analysis was sourced from separate two csv files and two from a remote server. They will be merged later to one dataset to labelled as data. The dataset contains information on various startups, funding rounds, investors, and other relevant details.
 
 ## Technologies Used
 
@@ -43,14 +43,14 @@ The data used for this analysis was sourced from [Indian Startup Database](https
 
 The dataset consists of the following columns:
 
-- `Startup Name`: Name of the startup company
-- `Industry Vertical`: The sector or industry the startup operates in
-- `Sub-Vertical`: Specific sub-category within the industry
-- `City`: Location of the startup's headquarters
-- `Investors`: Names of investors involved in funding rounds
-- `Investment Type`: Type of funding (seed, series A, etc.)
-- `Amount in USD`: Funding amount in USD
-- `Date`: Date of funding
+- `Company`: Name of the startup company
+- `Sector`: The sector or industry the startup operates in
+
+- `Location`: Location of the startup's headquarters
+
+- `Stage`: Type of funding (seed, series A, etc.)
+- `Amount`: Funding amount in USD
+- `Funding Year`: Date of funding
 
 ## Exploratory Data Analysis
 
@@ -79,10 +79,7 @@ The dataset consists of the following columns:
 - Analyzing the distribution of startups across different cities in India.
 - Visualizing the regions with the highest concentration of startups.
 
-### Investor Insights
 
-- Exploring the most active investors in the Indian startup ecosystem.
-- Analyzing the funding activities of top investors.
 
 ## Conclusion
 
