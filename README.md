@@ -38,6 +38,8 @@ The data used for this analysis was sourced from separate two csv files and two 
 - NumPy
 - Matplotlib
 - Seaborn
+- Plotly.express
+- Scipy
 
 ## Data Description
 
@@ -69,10 +71,6 @@ The dataset consists of the following columns:
 - Investigating the funding trends and identifying the most common funding types.
 - Visualizing the total funding amount and its distribution.
 
-### Startup Categories
-
-- Categorizing startups based on industry verticals and sub-verticals.
-- Identifying the top sectors with the most startups.
 
 ### Geographical Distribution
 
@@ -87,7 +85,7 @@ This EDA analysis provides valuable insights into the growth, funding patterns, 
 
 ## Contributing
 
-We welcome contributions from the community to enhance this analysis further. Feel free to raise issues, submit pull requests, or suggest improvements.
+Contributions from the community to enhance this analysis further are welcomed. Feel free to raise issues, submit pull requests, or suggest improvements.
 
 ## License
 
