@@ -1,6 +1,6 @@
 # Indian Startup Ecosystem Analysis (2018-2021)
 
-![Indian Ecosystem Startup](C:/Users/Admin/Desktop/Data Analytics/GITHUB\LP_1/Indian_Startup_Analysis/Images/startup.jpg) 
+![Indian Ecosystem Startup](Images/startup.jpg) 
 
 ## Overview
 
